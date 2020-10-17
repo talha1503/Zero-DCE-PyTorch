@@ -8,7 +8,7 @@ Pytorch implementation of [Zero-Reference Deep Curve Estimation for Low-Light Im
 </p>
 
 
-#### Result
+#### Result (Input--> Output)
 
 <img src="https://github.com/talha1503/Zero-DCE/blob/master/assets/results/2_input.bmp" width="256" height="256">  <img src="https://github.com/talha1503/Zero-DCE/blob/master/assets/results/2_output.bmp" width="256" height="256"> <br>
 <img src="https://github.com/talha1503/Zero-DCE/blob/master/assets/results/5_input.bmp" width="256" height="256">  <img src="https://github.com/talha1503/Zero-DCE/blob/master/assets/results/5_output.bmp" width="256" height="256"> <br>
