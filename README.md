@@ -33,7 +33,8 @@ Pytorch implementation of [Zero-Reference Deep Curve Estimation for Low-Light Im
 }
 ```
 
-Note: Some changes were made as compared to the original paper.
+## Note
+Some changes were made as compared to the original paper.
 <ul>
 <li>
 Learning rate was kept to 1e-3 instead of 1e-4.
